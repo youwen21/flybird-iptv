@@ -21,6 +21,7 @@ flybird-iptv 是一款iptv检查器
  - 导出txt
 
 ### 播放
+ - iptv 搜索
  - 播放TV
 
 ### 设置
