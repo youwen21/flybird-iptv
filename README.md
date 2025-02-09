@@ -16,6 +16,11 @@ flybird-iptv 是一款iptv检查器
  - 配置代理，通过代理检查
  - 批量删除检查错误次数大于等于2的记录
 
+### 合并&移动
+ - 合并IPTV
+ - 移动TV到另一组
+ - 单独删除某个TV
+
 ### 导出iptv
  - 导出m3u
  - 导出txt
@@ -42,6 +47,12 @@ flybird-iptv 是一款iptv检查器
 
 检查是否有效
 <img src="images/iptv-valid-check.png" alt="检查是否有效"/>  
+
+导出m3u
+<img src="images/export-m3u.jpg" alt="导出m3u"/>  
+
+导出txt
+<img src="images/export-txt.jpg" alt="导出txt"/>   
 
 ## QQ交流群
 QQ交流群： 854313352  
