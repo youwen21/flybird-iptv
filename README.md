@@ -1,5 +1,5 @@
 # flybird-iptv
-flybird-iptv 是一款全新的 IPTV 质量检测工具。 可深度检测tv视频加载播放速度。  
+flybird-iptv 是一款全新的 IPTV 质量检测工具。 可深度检测tv视频加载、播放速度。  
 
 功能列表
  - iptv管理: 增删改查tv、合并移动tv, m3u和txt格式导入导出互相转换
