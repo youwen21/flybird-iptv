@@ -1,38 +1,36 @@
 # flybird-iptv
-flybird-iptv 是一款iptv检查器 
+flybird-iptv 是一款全新的 IPTV 质量检测工具。 可深度检测tv视频加载播放速度。  
+
+** 软件亮点：检测 tv m3u8 index 索引文件加载耗时， 检测 m3u8 ts 视频加载耗时 **
 
 ## 系统支持
- - Windows (windows10, windows11)
+ - Windows10+
  - MacOS
 
 ## 功能介绍
-### 导入IPTV
+#### IPTV 管理
+增删改查iptv, 方便维护iptv源
+
+#### 导入 & 导出
  - 导入m3u
  - 导入txt
- - url导入
-
-### 检查iptv是否生效
- - 批量检查
- - 配置代理，通过代理检查
- - 批量删除检查错误次数大于等于2的记录
-
-### 合并&移动
- - 合并IPTV
- - 移动TV到另一组
- - 单独删除某个TV
-
-### 导出iptv
  - 导出m3u
  - 导出txt
 
-### 播放
- - iptv 搜索
- - 播放TV
+#### 增删改查、合并&移动
+ - tv增删改查， tv夸分组搜索
+ - 合并IPTV
+ - 移动TV
+ - 单独删除TV
 
-### 设置
- - 启动代理
- - 软件激活
+####  播放tv
+ - PC端播放TV
 
+### 代理设置
+ - 配置代理，播放 受限tv
+
+### 检查iptv
+ - 直连 、 代理 双网络检测 iptv 质量。
 
 
 ## 界面预览图
