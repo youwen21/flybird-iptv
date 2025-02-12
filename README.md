@@ -13,6 +13,17 @@ flybird-iptv 是一款全新的 IPTV 质量检测工具。 可深度检测tv视�
  - Windows10+
  - MacOS
 
+## 下载地址
+[https://github.com/zhengxiaopeng/flybird-iptv/releases](https://github.com/zhengxiaopeng/flybird-iptv/releases)
+
+## 领取激活码
+微信扫一扫 免费领取激活码
+<img src="images/apply-code-qr.png" width="300" />  
+
+<!-- ## 使用教程
+[https://www.bilibili.com/video/BV17K4y1x77E/](https://www.bilibili.com/video/BV17K4y1x77E/) -->
+
+
 
 ## 界面预览图
 导入iptv
@@ -36,7 +47,7 @@ flybird-iptv 是一款全新的 IPTV 质量检测工具。 可深度检测tv视�
 ## QQ交流群
 QQ交流群： 854313352  
 
-<img src="images/qrcode_1717081395364.jpg" width="400" />  
+<img src="images/qrcode_1717081395364.jpg" width="300" />  
 
 <a href="https://qm.qq.com/q/3pz7V9BHJu">点击链接加入群聊【就是玩群】：https://qm.qq.com/q/3pz7V9BHJu</a>
 
